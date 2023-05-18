@@ -1,4 +1,6 @@
-### Hi there 👋
+### Eric Lee (he/him)
+
+I'm a new LabVIEW developer learning the ways of Git!
 
 <!--
 **eric-lee-idexx/eric-lee-idexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
